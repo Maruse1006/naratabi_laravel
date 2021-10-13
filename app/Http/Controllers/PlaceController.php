@@ -45,7 +45,6 @@ public function index(Request $request)
   return view('place.index');
 }
 public function test(Request $request){
-
   return view('place.test');
 }
 }
