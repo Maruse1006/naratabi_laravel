@@ -6,7 +6,6 @@ use App\Place;
 
 use App\Gift;
 
-//use App\Traits\GetTrait;
 
 
 use App\Category;
